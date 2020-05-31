@@ -1,0 +1,20 @@
+/*
+Theme Name: Sydney Child
+Author: antonella
+Author URI: http://localhost/progetti-PED/antonella/
+Description: Child Theme for Sydney
+Template: Sydney
+Version: 1.0.0
+*/
+
+.site-header {
+    background-color: black;
+}
+
+.carousel-slide {
+    background-color: black;
+}
+
+.site-footer {
+    background-color: black;
+}
